@@ -9,6 +9,11 @@ Desafios
 
 3- ✔️ Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
 
+RESULTADOS
+
+![image](https://user-images.githubusercontent.com/125091849/228681440-8e6f195d-a200-4cd1-a03a-437d10bd6e7d.png)
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
