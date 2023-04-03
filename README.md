@@ -11,7 +11,19 @@ Desafios
 
 RESULTADOS
 
-![image](https://user-images.githubusercontent.com/125091849/228681440-8e6f195d-a200-4cd1-a03a-437d10bd6e7d.png)
+![image](https://user-images.githubusercontent.com/125091849/229577743-7dcb5af1-74db-4a85-826c-ee66454c7893.png)
+
+
+ImersÃO Alura Aula 02 
+
+Gerando figurinhas para Whatsapp com Java
+Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recursos da bilioteca Java AWT.
+
+Produto da segunda aula após a edição dos stickers:
+
+![image](https://user-images.githubusercontent.com/125091849/229577852-1ea227c3-de38-43e3-8756-a47ef5a89a5a.png)
+![image](https://user-images.githubusercontent.com/125091849/229577922-3daa8365-aff9-4b1c-a500-9efe9268eedf.png)
+
 
 
 ## Getting Started
