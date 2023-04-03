@@ -6,21 +6,13 @@ Sobre o Projeto:
 Repositório para estudo construído com base no treinamento intensivo em desenvolvimento back-end com a linguagem Java proposto pela plataforma alura.
 
 Tópicos abordados:
-
 Estruturas de controle;
-
 Estruturas de dados;
-
 Tratamento de exceções;
-
 Expressões regulares;
-
 Orientação a Objetos;
-
 Persolanização do terminal utilizando Java;
-
 Protocolo HTTP;
-
 Java Web com a biblioteca Java Net;
 
 Edição de imagens utilizando Java AWT e Swing.
