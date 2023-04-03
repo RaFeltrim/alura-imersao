@@ -1,47 +1,24 @@
-# alura-imersao
+Nesse projeto foi desenvolvido com API do imdb, pegamos os top 250 filmes do imdb, tratamos eles e exibimos as informações na tela. Após isso foi pegamos a imagem da capa atraves de URL e geramos uma nova imagem atraves da nota que cada filme teve
 
-Imersão Alura - Aula 01
+Contem 4 classes
+classe JsonParser-> para pegar os dados html da api e formatar eles em indetificadores e valores.
 
-Desafios
+classe manipulaArquivo-> para ler o link do arquivo que foi salvo de forma externa em um txt que acompanha a aplicação.
 
-1- ✔️ Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
+classe GeradoraDeFigurinhas-> para receber um InputStream da imagem de capa e também a nota do filme, com isso é feito um tratamento para incluir um texto e foto a partir da nota do filme
 
-2- ✔️ Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI.
+classe app (main) onde é chamado os metodos para conexão com o HTTP, exibição dos dados na tela e gerando as imagens.
 
-3- ✔️ Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
-
-RESULTADOS
-
-![image](https://user-images.githubusercontent.com/125091849/229577743-7dcb5af1-74db-4a85-826c-ee66454c7893.png)
-
-
-Imersão Alura - Aula 02 
-
-Gerando figurinhas para Whatsapp com Java
-Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recursos da bilioteca Java AWT.
-
-Produto da segunda aula após a edição dos stickers:
-
-![image](https://user-images.githubusercontent.com/125091849/229577852-1ea227c3-de38-43e3-8756-a47ef5a89a5a.png)
-![image](https://user-images.githubusercontent.com/125091849/229577922-3daa8365-aff9-4b1c-a500-9efe9268eedf.png)
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/61166867/228916937-c1996652-e6db-4f9f-8173-d3ea0c63ff63.png" width= "500px" />
+</div>
 
 
 
-## Getting Started
+<div align = "left">
+<img src = "https://user-images.githubusercontent.com/61166867/228925474-426261fd-fc46-4745-afca-df266080f560.png" width= "500px" />
+</div>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<div align = "left">
+<img src = "https://user-images.githubusercontent.com/61166867/228925537-83044e15-6bc2-4edd-a5b5-391f6773c1a2.png" width= "500px" />
+</div>
