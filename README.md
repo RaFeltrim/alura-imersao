@@ -50,4 +50,4 @@ Conclusão da terceira aula após a edição de imagens da API da NASA:
 
 
 Tecnologias Utilizadas:
-logo-do-java.png
+![image](https://user-images.githubusercontent.com/125091849/229580024-fa1cbd20-5847-4dc7-ae0d-1a274987968b.png)
